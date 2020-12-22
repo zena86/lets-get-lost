@@ -4,12 +4,12 @@
 
 DEMO [Lets Get Lost](https://zena86.github.io/lets-get-lost/)
 
-Языки |Библиотеки|Фреймворки|  Компоненты  |  Сервисы    |  Инструменты  |Методология|  Прочие
-------|----------|----------|--------------|-------------|---------------|-----------|-----------
-HTML5 |jQuery    |Dragula   |Air Datepicker|Google Fonts |Brackets       |БЭМ        |CSS flexbox
-CSS3  |          |          |              |Font Awesome |Adobe Photoshop|           |
-&nbsp;|          |          |              |IcoMoon      |               |           |
-&nbsp;|          |          |              |Flaticon     |               |           |
+Языки |Библиотеки/Фреймворки|  Компоненты  |  Сервисы    |  Инструменты  |Методология|  Прочие
+------|---------------------|--------------|-------------|---------------|-----------|-----------
+HTML5 |jQuery               |Air Datepicker|Google Fonts |Brackets       |БЭМ        |CSS flexbox
+CSS3  |Dragula              |              |Font Awesome |Adobe Photoshop|           |
+&nbsp;|                     |              |IcoMoon      |               |           |
+&nbsp;|                     |              |Flaticon     |               |           |
 
 Адаптивность реализована за счет:
 * медиазапросов
@@ -21,7 +21,7 @@ CSS3  |          |          |              |Font Awesome |Adobe Photoshop|      
 
 ![Screenshort 1](/images/imgreadme/screen-main.png)
 
-**2. Бургер-меню**
+**. Бургер-меню**
 
 ![Screenshort 1](/images/imgreadme/screenshort-burger.png)|![Screenshort 1](/images/imgreadme/screenshort-burger2.png)
 ----------------------------------------------------------|-----------------------------------------------------------
