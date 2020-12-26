@@ -17,11 +17,11 @@ JavaScript|          |              |IcoMoon      |               |           |
 
 **1. Полноэкранный (fullscreen) блок на главной странице**
 
-![Screenshort 1](/images/imgreadme/screen-main.png)
+![Screenshort](/images/imgreadme/screen-main.png)
 
 **2. Бургер-меню**
 
-![Screenshort 1](/images/imgreadme/screenshort-burger.png)|![Screenshort 1](/images/imgreadme/screenshort-burger2.png)
+![Screenshort](/images/imgreadme/screen-burger.png)|![Screenshort 1](/images/imgreadme/screen-burger2.png)
 ----------------------------------------------------------|-----------------------------------------------------------
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
