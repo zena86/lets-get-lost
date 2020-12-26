@@ -24,12 +24,16 @@ JavaScript|          |              |IcoMoon      |               |           |
 ![Screenshort](/images/imgreadme/screen-burger.png)|![Screenshort 1](/images/imgreadme/screen-burger2.png)
 ----------------------------------------------------------|-----------------------------------------------------------
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 **3. Контактная форма (email regex pattern, :invalid, :valid, :required, :optional, :focus и их комбинации)**
 
-![Screenshort 1](/images/imgreadme/screen-contact.png)
+![Screenshort](/images/imgreadme/screen-contact.png)
 
+**4. Адаптивность до  320px**
+
+![Screenshort](/images/imgreadme/screen1.png)
+
+![Screenshort](/images/imgreadme/screen2.png)|![Screenshort](/images/imgreadme/screen3.png)
+---------------------------------------------|-----------------------------------------------------------
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
