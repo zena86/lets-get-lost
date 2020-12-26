@@ -28,7 +28,7 @@ JavaScript|          |              |IcoMoon      |               |           |
 
 ![Screenshort](/images/imgreadme/screen-contact.png)
 
-**4. Адаптивность до  320px**
+**4. Адаптивность до  320px, постраничная навигация и сортировка по группам (все и рекомендованные)**
 
 ![Screenshort](/images/imgreadme/screen1.png)
 
