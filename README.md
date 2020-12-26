@@ -1,15 +1,13 @@
-# lets-get-lost
- project 10
 <h1 align="center">Лендинг "Lets Get Lost"</h1>
 
 DEMO [Lets Get Lost](https://zena86.github.io/lets-get-lost/)
 
-Языки |Библиотеки/Фреймворки|  Компоненты  |  Сервисы    |  Инструменты  |Методология|  Прочие
-------|---------------------|--------------|-------------|---------------|-----------|-----------
-HTML5 |jQuery               |Air Datepicker|Google Fonts |Brackets       |БЭМ        |CSS flexbox
-CSS3  |Dragula              |              |Font Awesome |Adobe Photoshop|           |
-&nbsp;|                     |              |IcoMoon      |               |           |
-&nbsp;|                     |              |Flaticon     |               |           |
+Языки     |Библиотеки|  Компоненты  |  Сервисы    |  Инструменты  |Методология|  Прочие
+----------|----------|--------------|-------------|---------------|-----------|-----------
+HTML5     |jQuery    |Air Datepicker|Google Fonts |Brackets       |БЭМ        |CSS flexbox
+CSS3      |          |              |Font Awesome |Adobe Photoshop|           |SVG
+JavaScript|          |              |IcoMoon      |               |           |
+&nbsp;    |          |              |Flaticon     |               |           |
 
 Адаптивность реализована за счет:
 * медиазапросов

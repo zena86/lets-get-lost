@@ -1,15 +1,15 @@
- function reInitDragula()
-{
-    var drake = dragula([document.querySelector('.target.border'), document.querySelector('#right')]);
-    
-    drake.on("drop", function (el, target, source, sibling)
-    {
-        $(".target").removeClass("border");    
-        let container = $(".daily-plan");
-        container.append("<div class='target border'></div>"); 
-        reInitDragula();
-    }); 
- }
+// function reInitDragula()
+//{
+//    var drake = dragula([document.querySelector('.target.border'), document.querySelector('#right')]);
+//    
+//    drake.on("drop", function (el, target, source, sibling)
+//    {
+//        $(".target").removeClass("border");    
+//        let container = $(".daily-plan");
+//        container.append("<div class='target border'></div>"); 
+//        reInitDragula();
+//    }); 
+// }
 
 $(document).ready(function() {
     
@@ -47,13 +47,13 @@ $(document).ready(function() {
 
     //Установить дату по умолчанию
     
-   $('#myDate1').datepicker().data('datepicker').selectDate(new Date());
+//   $('#myDate1').datepicker().data('datepicker').selectDate(new Date());
 //   $('#myDate2').datepicker().data('datepicker').selectDate(new Date());
 
 
     //Dragula    
 
-    reInitDragula();
+//    reInitDragula();
     
     //Pagination
     
@@ -70,9 +70,6 @@ $(document).ready(function() {
         $("#recomented-btn a").removeClass("active");
     });
 });
-
-
-
 
 let attraction = "images/order-icon1.gif";
 let mountain = "images/order-icon2.gif";
